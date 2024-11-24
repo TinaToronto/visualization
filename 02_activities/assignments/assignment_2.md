@@ -11,9 +11,24 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+      [Answer]
+       1. Good public data visualizations online (https://public.tableau.com/app/discover) is "OECD Better Life Index and World Happiness Index". 
+          a.  This visualization employs a petal circle chart to compare these two indices for 20 countries.
+          b.  This visualization is offering a clear, intuitive visual relationship.
+          c.  It effectively uses design principles to emphasize key data points without overwhelming the viewer.
 
+        2. Bad public data visualizations online (https://public.tableau.com/app/discover) is "Bad Dashboard Example".
+           a. The dashboard crams too much information into a single view, making it difficult for users to focus on key insights.
+           b. Colors are applied inconsistently, creating confusion rather than clarity.
+           c. Some graphs and metrics lack clear labels or legends, making it challenging for viewers to interpret the data accurately.
+           d. The inclusion of unnecessary elements clutters the visual, detracting from its purpose.
 
+        Please see another two new PDF files for further reference.
+        a. The link of good example(OECD Better Life Index and World Happiness Index) is as below.
+      https://public.tableau.com/app/profile/devi.arnita/viz/PetalCirclestanpaMapLayerhuhuNEWPUBLIC4/DashboardFINAL
 
+        b. The link of bad example(Bad Dashboard Example)is as below.
+      https://public.tableau.com/app/profile/andrew.guerrazzi/viz/BadDashboardExample/Dashboard1
 
 
 
@@ -22,11 +37,24 @@
     - How could this data visualization have been improved?  
       ```
       Your answer...
+      [Answer]
+       1. Simplify the layout
+          Focus on a single story or insight per dashboard. Use separate tabs or sections for different data themes to avoid overwhelming the audience.
 
+       2. Streamline color usage
+           Use a minimal and consistent color palette that aligns with the dashboard's purpose, such as applying one color per category or metric.
 
+       3.  Improve labeling
+           Ensure that every chart and graph includes precise titles and annotations to explain the data. Avoid jargon or overly technical terms.
 
+       4.  Reduce redundancy
+           Consolidate metrics into fewer but more meaningful charts, such as replacing redundant pie charts with a single bar chart showing comparison.
 
-
+       5.  Enhance visual hierarchy
+           Emphasize critical metrics or insights using larger text, bolder colors, or strategic positioning. Use white space effectively to separate distinct sections.
+    
+        6. Focus on the end user
+           Define the primary audience and tailor the visualization to their needs. Include filters and interactive features to allow users to explore the data intuitively.
 
       
       ```
