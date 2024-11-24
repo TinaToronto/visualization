@@ -24,6 +24,11 @@
            d. The inclusion of unnecessary elements clutters the visual, detracting from its purpose.
 
         Please see another two new PDF files for further reference.
+        a. The link of good example(OECD Better Life Index and World Happiness Index) is as below.
+      https://public.tableau.com/app/profile/devi.arnita/viz/PetalCirclestanpaMapLayerhuhuNEWPUBLIC4/DashboardFINAL
+
+        b. The link of bad example(Bad Dashboard Example)is as below.
+      https://public.tableau.com/app/profile/andrew.guerrazzi/viz/BadDashboardExample/Dashboard1
 
 
 
