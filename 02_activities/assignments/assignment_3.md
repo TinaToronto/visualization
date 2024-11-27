@@ -8,16 +8,46 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
         Your answer...
+        [Answer] 
+        a. The link of good example(OECD Better Life Index and World Happiness Index) is as below.
+        https://public.tableau.com/app/profile/devi.arnita/viz/PetalCirclestanpaMapLayerhuhuNEWPUBLIC4/DashboardFINAL
 
+        b. The link of bad example(Bad Dashboard Example)is as below.
+        https://public.tableau.com/app/profile/andrew.guerrazzi/viz/BadDashboardExample/Dashboard1
 
+        OECD Better Life Index and World Happiness Index:
+        - Accessibility: Likely moderately accessible, depending on the usability of map layers and color schemes.
+        - Reproducibility: Could improve with explicit documentation of data sources and methodologies.
+        - Equity: May introduce bias if certain regions are visually amplified without explanation.
+
+        Bad Dashboard Example:
+        - Accessibility: Likely poor, as it is an example of a "bad dashboard" with overcrowding and potentially confusing             visuals.
+        - Reproducibility: Minimal, due to unclear presentation of data and relationships.
+        - Equity: Potentially inequitable if poorly structured visuals misrepresent the data.
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
         Your answer...
+        [Answer]
+        OECD Better Life Index and World Happiness Index:
+        1. Accessibility:
+           a. Incorporate colorblind-friendly palettes (e.g., ColorBrewer) and add patterns or symbols as secondary                        indicators.
+           b. Provide a brief explanation or legend for the petal charts to clarify their purpose and interpretation.
+        2. Reproducibility:
+           a. Add a "Data Source" section or tooltip explaining where the data comes from, how it was cleaned, and any     
+              assumptions made.
+        3. Equity:
+           a. Ensure proportional scaling and explain visual emphasis (e.g., population, density, or other metrics).
 
-
-
+        Bad Dashboard Example:
+        1. Accessibility:
+           a. Simplify the layout by grouping related elements and using consistent fonts and color schemes.
+           b. Increase whitespace between sections to improve readability.
+        2. Reproducibility:
+           a. Clearly label all charts and include annotations or tooltips describing the metrics and their calculation.
+        3. Equity:
+           a. Ensure all data visualizations are scaled proportionally and avoid exaggerated effects (e.g., 3D graphs that                 misrepresent values).
         ```
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
